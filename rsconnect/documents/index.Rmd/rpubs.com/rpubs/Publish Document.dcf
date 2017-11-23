@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/137656/93e9395cac2c4c9482cfc6371ff6f13a
+bundleId: https://api.rpubs.com/api/v1/document/137656/93e9395cac2c4c9482cfc6371ff6f13a
+url: http://rpubs.com/lgreski/137656
+when: 1451196079.21392
